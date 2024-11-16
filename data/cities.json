@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "id": "39f9",
+      "cityName": "Muniesa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-11-07T12:27:52.854Z",
+      "notes": "bitch",
+      "position": {
+        "lat": "41.015797343033654",
+        "lng": "-0.81298828125"
+      }
+    }
+  ]
+}
